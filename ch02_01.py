@@ -4,6 +4,8 @@ from __future__ import division
 
 print("""
 ----------------------------------------------------------------------
+2.  Accessing Text Corpora and Lexical Resources
+----------------------------------------------------------------------
 1  Accessing Text Corpora
 1.1  Gutenberg Corpus
 ----------------------------------------------------------------------

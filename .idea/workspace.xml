@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eed6687-fd76-44fa-8286-62caff43de27" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06_01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06_02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06_03.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06_04.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06_05.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06_06.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06_07.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08_01.py" afterPath="$PROJECT_DIR$/ch08_01.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08_03.py" afterPath="$PROJECT_DIR$/ch08_03.py" />
@@ -26,18 +29,7 @@
     <favorites_list name="MyNLTKBOOK" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ch06_02.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch06_02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8766067">
-              <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,9 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch01b.py" />
-        <option value="$PROJECT_DIR$/ch03_07.py" />
-        <option value="$PROJECT_DIR$/ch03_06.py" />
         <option value="$PROJECT_DIR$/ch03_05.py" />
         <option value="$PROJECT_DIR$/ch03_04.py" />
         <option value="$PROJECT_DIR$/ch03_03.py" />
@@ -102,6 +91,11 @@
         <option value="$PROJECT_DIR$/ch08_01.py" />
         <option value="$PROJECT_DIR$/ch06_01.py" />
         <option value="$PROJECT_DIR$/ch06_02.py" />
+        <option value="$PROJECT_DIR$/ch06_03.py" />
+        <option value="$PROJECT_DIR$/ch06_04.py" />
+        <option value="$PROJECT_DIR$/ch06_05.py" />
+        <option value="$PROJECT_DIR$/ch06_06.py" />
+        <option value="$PROJECT_DIR$/ch06_07.py" />
       </list>
     </option>
   </component>
@@ -194,41 +188,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch06_02">
-    <configuration default="false" name="ch05_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MyNLTKBOOK" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch05_06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ch08_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MyNLTKBOOK" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ch06_04">
     <configuration default="false" name="ch08_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,6 +236,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyNLTKBOOK" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ch06_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyNLTKBOOK" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ch06_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyNLTKBOOK" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch06_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -421,19 +415,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.ch02" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ch05_06" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ch08_01" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ch08_03" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ch06_01" />
-      <item index="5" class="java.lang.String" itemvalue="Python.ch06_02" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ch08_03" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ch06_01" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ch06_02" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ch06_03" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ch06_04" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ch06_02" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ch06_01" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ch08_03" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ch08_01" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ch05_06" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ch06_04" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ch06_03" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ch06_02" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ch06_01" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ch08_03" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +446,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="348" y="145" width="1170" height="770" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24867256" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -510,41 +504,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch04_08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch04_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03_06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch03_04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -861,8 +820,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch06_02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8766067">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        <state vertical-scroll-proportion="-4.84375">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93830335">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67866325">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3084833">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27763495">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>

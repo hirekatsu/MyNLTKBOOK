@@ -26,9 +26,11 @@ sent = "Mary saw Bob".split()
 rd_parser = nltk.RecursiveDescentParser(grammar1)
 for tree in rd_parser.parse(sent):
     print(tree)
+print("-" * 40)
 
 for tree in rd_parser.parse("the dog saw a man in the park".split()):
     print(tree)
+print("-" * 40)
 
 
 print("""
@@ -42,6 +44,7 @@ sent = "Mary saw Bob".split()
 rd_parser = nltk.RecursiveDescentParser(grammar1)
 for tree in rd_parser.parse(sent):
     print(tree)
+print("-" * 40)
 
 
 print("""
@@ -69,5 +72,6 @@ for tree in rd_parser.parse('the angry bear chased the frightened little squirre
     print(tree)
 for tree in rd_parser.parse('Chatterer said Buster thought the tree was tall'.split()):
     print(tree)
+print("-" * 40)
 
 

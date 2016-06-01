@@ -36,3 +36,4 @@ sent = ['I', 'shot', 'an', 'elephant', 'in', 'my', 'pajamas']
 parser = nltk.ChartParser(groucho_grammar)
 for tree in parser.parse(sent):
     print(tree)
+print("-" * 40)
